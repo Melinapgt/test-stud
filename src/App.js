@@ -77,7 +77,10 @@ function App() {
         <div>
           {" "}
           👉🏽 Par ici pour voir le projet sur{" "}
-          <a className="font-bold" href="https://github.com/Melinapgt">
+          <a
+            className="font-bold"
+            href="https://github.com/Melinapgt/test-stud"
+          >
             git
           </a>{" "}
         </div>
